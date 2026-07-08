@@ -1,0 +1,9 @@
+{
+  "name": "product-video-pipeline",
+  "version": "0.1.0",
+  "description": "从一个产品点子到 AI 演示视频的完整工作流：PRD → 高保真交互稿 → 分镜表与分镜图 → 视频成片。含统一入口技能与四个可独立使用的阶段技能，AI 生成基于即梦 dreamina CLI。",
+  "author": {
+    "name": "Figurich"
+  },
+  "keywords": ["prd", "prototype", "storyboard", "demo-video", "dreamina", "seedream", "seedance"]
+}
