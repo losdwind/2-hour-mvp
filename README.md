@@ -1,6 +1,6 @@
-# product-video-pipeline
+# 2-hour-mvp
 
-从一个产品点子到 AI 演示视频的完整工作流插件。
+2 小时从一个点子做出可演示的 MVP：PRD、可点击高保真、分镜、AI 演示视频，四个交付物一条流水线。
 
 ## 技能一览
 
@@ -17,10 +17,10 @@
 任意支持 Agent Skills 规范的 agent（Claude Code、Codex、Cursor、OpenCode 等 70+）：
 
 ```bash
-npx skills add losdwind/product-video-pipeline
+npx skills add losdwind/2-hour-mvp
 ```
 
-Claude Cowork 用户：下载本仓库 Releases 里的 `product-video-pipeline.plugin`，或把仓库目录打包为 .plugin 后在对话中安装。
+Claude Cowork 用户：下载本仓库 Releases 里的 `2-hour-mvp.plugin`，或把仓库目录打包为 .plugin 后在对话中安装。
 
 ## 用法
 
